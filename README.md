@@ -1,2 +1,0 @@
-# investmentgame
-investmentgame
